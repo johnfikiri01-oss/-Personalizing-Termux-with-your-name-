@@ -1,1 +1,0 @@
-# -Personalizing-Termux-with-your-name-
